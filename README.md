@@ -45,11 +45,11 @@ into real-world applications.
 - Flutter
 - React Native
 
-<h2>📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliQamarDEV&show_icons=true&theme=tokyonight&hide_border=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliQamarDEV&layout=compact&theme=tokyonight&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=AliQamarDEV&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliQamarDEV&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <!--
