@@ -40,7 +40,7 @@ Git • GitHub • VS Code
 - Flutter
 - React Native
 
-<h2>🛠️ Tech Stack</h2>
+<h2>🛠️ Skils </h2>
 
 <h3>🌐 Web Development</h3>
 
