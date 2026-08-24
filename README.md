@@ -21,13 +21,13 @@ into real-world applications.
 <h3>🌐 Web Development</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,angular" />
 </p>
 
 <h3>📱 Mobile Development</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,reactnative,android,firebase" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,androidstudio,js,ts,nextjs,firebase" />
 </p>
 
 <h3>⚙️ Tools</h3>
@@ -45,25 +45,7 @@ into real-world applications.
 - Flutter
 - React Native
 
-<h2>🛠️ Skils </h2>
 
-<h3>🌐 Web Development</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres" />
-</p>
-
-<h3>📱 Mobile Development</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,androidstudio,js,firebase" />
-</p>
-
-<h3>⚙️ Tools</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,postman" />
-</p>
 <!--
 **AliQamarDEV/AliQamarDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
