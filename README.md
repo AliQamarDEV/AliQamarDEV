@@ -45,13 +45,6 @@ into real-world applications.
 - Flutter
 - React Native
 
-## 📊 GitHub Stats
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliQamarDEV&show_icons=true&theme=tokyonight" />
-</p>
 
 <!--
 **AliQamarDEV/AliQamarDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
