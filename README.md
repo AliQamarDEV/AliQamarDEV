@@ -1,13 +1,12 @@
-## Hi there 👋
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Web+Developer;Mobile+App+Developer;Flutter+Developer;JavaScript+Developer" />
-</p>
 <img width="100%" height="318" alt="watermarked_img_17188817703802671144" src="https://github.com/user-attachments/assets/40a40319-bd51-461f-9b27-63e439aabb5a" />
 <h1 align="center">👋 Hi, I'm Ali Qamar</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Web+Developer;Mobile+App+Developer;Flutter+Developer;JavaScript+Developer" />
 
+  <!-- </p>
 <p align="center">
   Software Engineering Student | Web & Mobile Developer
-</p>
+</p> -->
 
 ## 👨‍💻 About Me
 
