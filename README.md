@@ -51,7 +51,7 @@ Git • GitHub • VS Code
 <h3>📱 Mobile Development</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,reactnative,android,firebase" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,androidstudio,js,firebase" />
 </p>
 
 <h3>⚙️ Tools</h3>
