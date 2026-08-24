@@ -39,7 +39,26 @@ Git • GitHub • VS Code
 - Node.js
 - Flutter
 - React Native
-- 
+
+<h2>🛠️ Tech Stack</h2>
+
+<h3>🌐 Web Development</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres" />
+</p>
+
+<h3>📱 Mobile Development</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,reactnative,android,firebase" />
+</p>
+
+<h3>⚙️ Tools</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,postman" />
+</p>
 <!--
 **AliQamarDEV/AliQamarDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
