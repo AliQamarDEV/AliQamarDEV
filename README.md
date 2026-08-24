@@ -1,5 +1,43 @@
 ## Hi there 👋
 <img width="100%" height="318" alt="watermarked_img_17188817703802671144" src="https://github.com/user-attachments/assets/40a40319-bd51-461f-9b27-63e439aabb5a" />
+<h1 align="center">👋 Hi, I'm Ali Qamar</h1>
+
+<p align="center">
+  Software Engineering Student | Web & Mobile Developer
+</p>
+
+## 👨‍💻 About Me
+
+I'm a Software Engineering student passionate about
+building web and mobile applications.
+
+I enjoy learning modern technologies and turning ideas
+into real-world applications.
+
+## 🛠️ Tech Stack
+
+### 🌐 Web Development
+
+HTML • CSS • JavaScript • TypeScript
+React • Node.js • Express • MongoDB
+
+### 📱 Mobile Development
+
+Flutter • Dart • React Native
+
+### ⚙️ Tools
+
+Git • GitHub • VS Code
+
+## 🌱 Currently Learning
+
+- JavaScript
+- TypeScript
+- React
+- Node.js
+- Flutter
+- React Native
+- 
 <!--
 **AliQamarDEV/AliQamarDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
