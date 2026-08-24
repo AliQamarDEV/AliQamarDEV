@@ -16,20 +16,25 @@ building web and mobile applications.
 I enjoy learning modern technologies and turning ideas
 into real-world applications.
 
-## 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
-### 🌐 Web Development
+<h3>🌐 Web Development</h3>
 
-HTML • CSS • JavaScript • TypeScript
-React • Node.js • Express • MongoDB
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres" />
+</p>
 
-### 📱 Mobile Development
+<h3>📱 Mobile Development</h3>
 
-Flutter • Dart • React Native
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,reactnative,android,firebase" />
+</p>
 
-### ⚙️ Tools
+<h3>⚙️ Tools</h3>
 
-Git • GitHub • VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,postman" />
+</p>
 
 ## 🌱 Currently Learning
 
