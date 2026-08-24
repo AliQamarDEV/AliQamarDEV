@@ -47,9 +47,10 @@ into real-world applications.
 
 ## 📊 GitHub Stats
 
+<h2>📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliQamarDEV&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliQamarDEV&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AliQamarDEV&show_icons=true&theme=tokyonight" />
 </p>
 
 <!--
